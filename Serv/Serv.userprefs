@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serv\Logic\PlayerTempData.cs">
+    <Files>
+      <File FileName="Serv\Logic\handleConnMsg.cs" Line="1" Column="1" />
+      <File FileName="Serv\Logic\handlePlayerMsg.cs" Line="1" Column="1" />
+      <File FileName="Serv\Logic\HandleRoomMsg.cs" Line="1" Column="1" />
+      <File FileName="Serv\Logic\handlePlayerEvent.cs" Line="1" Column="1" />
+      <File FileName="Serv\Logic\RoomMgr.cs" Line="1" Column="1" />
+      <File FileName="Serv\Logic\PlayerTempData.cs" Line="28" Column="24" />
+      <File FileName="Serv\Logic\Room.cs" Line="1" Column="1" />
+      <File FileName="Serv\Logic\HandleBattleMsg.cs" Line="136" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

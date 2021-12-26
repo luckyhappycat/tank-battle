@@ -1,0 +1,9 @@
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\Serv.exe
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\Serv.pdb
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\MySql.Data.dll
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.csproj.CopyComplete
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.exe
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.pdb
+D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\Serv.exe.config

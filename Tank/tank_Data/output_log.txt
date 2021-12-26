@@ -1,0 +1,24 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x9bc5)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\Unity3D网络游戏实战\Chapter12\Tank\tank_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.036 seconds
+desktop: 3840x2160 59Hz; virtual: 7680x2856 at -3840,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
